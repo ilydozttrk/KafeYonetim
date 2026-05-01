@@ -96,3 +96,4 @@ This project was developed to practice fundamental software development skills a
 **İlayda Öztürk**
 
 GitHub: https://github.com/ilydozttrk
+Linkedin: www.linkedin.com/in/ilayda-öztürk-8768672a3
